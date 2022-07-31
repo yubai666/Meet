@@ -75,8 +75,8 @@ static=AppleIOSUpdate, reject, direct, img-url=https://raw.githubusercontent.com
 static=Advertising, direct, reject, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png
 ssid=Mainland, 国内节点, direct,img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Mainland.png
 ssid=网易云解锁,国内节点,direct,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
-url-latency-benchmark=免流节点,direct, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png
-url-latency-benchmark=国内节点,direct, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+url-latency-benchmark=免流节点,香港, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png
+url-latency-benchmark=国内节点,香港, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
 static=Google, resource-tag-regex=Msi, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
 url-latency-benchmark=Hong Kong, server-tag-regex=HK|香港|港|🇭🇰️|Hong, check-interval=1800, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
 url-latency-benchmark=TaiWan, server-tag-regex=台湾|TW|台北|Taiwan, check-interval=1800, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
