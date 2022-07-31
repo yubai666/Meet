@@ -261,7 +261,6 @@ event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/
 0 0 29 2 * https://raw.githubusercontent.com/Hyseen/Scripts/master/QuantumultX/DisneyPlusPolicySwitcher/disney_switcher.js, tag=Disney+ 策略切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney+.png, enabled=false
 event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=流媒体解锁检测, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Infuse.png, enabled=true
 event-interaction https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/TaskLocal/NeteaseMusicUnlockCheck.js, tag=网易音乐查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png, enabled=true
-0 8 * * * https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js#policy=Google, tag=Google 送中定时切换, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png, enabled=false
 [http_backend]
 #后端配置
 
